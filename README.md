@@ -1,4 +1,7 @@
-# ENGLISH DICTIONARY PROJECT
+
+# VIEW LIVE SITE [HERE](https://English-dictionary.vercel.app/)
+
+ENGLISH DICTIONARY PROJECT
 
 ## what learnt
 
